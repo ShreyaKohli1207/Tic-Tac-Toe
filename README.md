@@ -1,1 +1,3 @@
 # Tic-Tac-Toe
+
+This project mainly revolves around the basic idea of changing the ideal pen-paper or board tic tac toe to a modern and advanced version to make it user friendly and to minimize the manual efforts. For doing so, I have used various functions which range from making a 3 x 3 board to asking the computer/opponent to choose their move. It has functions to set the difficulty level of the game or to ask the players whether they want a rematch or not. As soon as the code runs, a title page is displayed listing the name of the game and the name of the team members. Then the code asks whether you want to play versus the computer or another player. After selecting your choice, the game begins.
